@@ -10,6 +10,7 @@ public class practice_2d_arrays {
         System.out.println("Insert the numbers of columns: ");
         int b = sc.nextInt();
         int[][] number = new int[a][b];
+        //the number to find
         int num = 11;
 
         //input
