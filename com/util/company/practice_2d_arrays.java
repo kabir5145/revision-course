@@ -11,7 +11,10 @@ public class practice_2d_arrays {
         int b = sc.nextInt();
         int[][] number = new int[a][b];
         //the number to find
-        int num = 11;
+        System.out.println("We have to find the number is:");
+        int num = sc.nextInt();
+
+        System.out.println("Now insert the numbers in the matrix in the following rows and columns:");
 
         //input
         for (int i = 0; i < a; i++) {
