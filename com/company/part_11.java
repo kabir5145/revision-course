@@ -22,7 +22,7 @@ public class part_11 {
        }
        //output
         for(int i = 0;i<rows;i++){
-            for(int j = 0;i<colm;j++){
+            for(int j = 0;j<colm;j++){
                 System.out.print(numbers[i][j]+" ");
             }
             System.out.println();
