@@ -44,6 +44,7 @@ public class part_14 {
          */
 
         //Logical Operators
+        /*
         int a = 10;
         int b = 20;
         int c = 30;
@@ -54,5 +55,25 @@ public class part_14 {
         }else {
             System.out.println("true");
         }
+         */
+
+        //Assignment Operators
+        int a = 10;
+        int b = 5;
+//        a = b;
+//        System.out.println(a);
+//        System.out.println(b);
+
+//        a *=b;
+//        System.out.println(a);
+
+//        a -= b;
+//        System.out.println(a);
+
+//        a+=b;
+//        System.out.println(a);
+
+//        a/=b;
+//        System.out.println(a);
     }
 }
