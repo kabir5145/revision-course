@@ -32,6 +32,7 @@ public class part_14 {
          */
 
         //Relational operators
+        /*
         int a = 10;
         int b = 4;
         System.out.println(a==b);
@@ -40,5 +41,18 @@ public class part_14 {
         System.out.println(a!=b);
         System.out.println(a>=b);
         System.out.println(a<=b);
+         */
+
+        //Logical Operators
+        int a = 10;
+        int b = 20;
+        int c = 30;
+        System.out.println(a<b && b<c);
+        System.out.println(a<b || b >c || a ==b);
+        if(!(a<b)){
+            System.out.println("false");
+        }else {
+            System.out.println("true");
+        }
     }
 }
