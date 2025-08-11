@@ -2,6 +2,7 @@ package com.company;
 
 public class part_14 {
     public static void main(String[] args) {
+        /*
       //pre Increment
         int a = 10;
         int b = 0;
@@ -28,5 +29,16 @@ public class part_14 {
         h = g--;
         System.out.println(g);
         System.out.println(h);
+         */
+
+        //Relational operators
+        int a = 10;
+        int b = 4;
+        System.out.println(a==b);
+        System.out.println(a>b);
+        System.out.println(a<b);
+        System.out.println(a!=b);
+        System.out.println(a>=b);
+        System.out.println(a<=b);
     }
 }
